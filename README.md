@@ -1,4 +1,4 @@
-<img alt="SNQ-2001" src="img/header.svg" width="98.2%" height="100%">
+<img alt="SNQ-2001" src="img/header.png" width="98.2%" height="100%">
 
 ### Hi, there!! This is my Profile!
 
